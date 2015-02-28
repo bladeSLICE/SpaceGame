@@ -82,5 +82,5 @@ function Update () {
 
 function CameraFOV(fov : float)
 {
-	myCamera.camera.fov = fov;
+	myCamera.camera.fieldOfView = fov;
 }
